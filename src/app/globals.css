@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+body{
+  background-color: rgb(18, 28, 37);
+  background-image: url('http://localhost:3000/alum.png');
+  background-blend-mode: overlay;
+  background-repeat: repeat;
+  width: 100%;
+  height: 100%;
+}
